@@ -5,6 +5,8 @@
 Esta es una plicacion Spring Boot que implementa un servicio REST con un endpoint de /greeting, el cual rsponde con un simple "Hello World", para este ejercicio se contenerizo la aplicacion en docker, se subio a dockerhub y se ejecuto desde una instancia EC2
 
 ## Arquitectura - AWS EC2
+<img width="836" height="560" alt="image" src="https://github.com/user-attachments/assets/6d36d519-1cc0-4485-bb53-3cac1ad96ed4" />
+
 
 ## Tecnologias
 
@@ -175,3 +177,7 @@ Desde el EC2 mismo:
 ```bash
 curl http://localhost:42000/greeting
 ```
+
+### Video de funcionmiento
+
+
